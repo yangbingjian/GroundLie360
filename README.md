@@ -1,7 +1,7 @@
 # GroundLie360 Dataset
 This repository contains the official introduction and codes implementation for paper **"A New Dataset and Benchmark for Grounding Multimodal Misinformation"**. Supplementary materials are available on the project webpage at [WebPage](https://yangbingjian.github.io/GroundLie360_DATASET/).     
 
-[Paper](to-be-updated) ⋅ [WebPage](https://yangbingjian.github.io/GroundLie360_DATASET/) ⋅ [Dataset](https://github.com/yangbingjian/GroundLie360/dataset)
+[Paper](to-be-updated) ⋅ [WebPage](https://yangbingjian.github.io/GroundLie360_DATASET/) ⋅ [Dataset](https://github.com/yangbingjian/GroundLie360/tree/main/dataset)
 
 ## News
 [2025.06] Our project webpage is released.
